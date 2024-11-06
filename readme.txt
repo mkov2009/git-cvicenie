@@ -6,6 +6,6 @@ konfikt
 Test konfliktu1.
 Test konfliktu2.
 Test konfliktu3.
-konflikt4
+konflikt5
 
 Added new line and removed one to show git diff.
